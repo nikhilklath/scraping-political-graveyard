@@ -5,9 +5,13 @@ This README file explains the data sets and codes from the exercise of scraping 
 The data on the website does not have tags. So, I have tried to use the pattern in which they have been rendered to impose a structure. This inevitably leads to some errors which need to be suitably cleaned before any analysis.
 
 •	scrape_updated.ipynb: Scrapes the following excel spreadsheet
+
 data_born_pol.xlsx: 
+
 o	state: state of birth
+
 o	county: county of birth
+
 o	pol_name: name of politician
 
 Does not contain data on politicians from Wyoming
